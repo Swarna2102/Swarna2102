@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarna Kumari</h1>
-<h3 align="center">Data Analyst | Software Developer| CSE Student </h3>
+<h3 align="center">Data Analyst | Software Developer | CSE Student</h3>
 
 ---
 
@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarna2102&show_icons=true&theme=radical" alt="Swarnas GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2102&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarna2102&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2102&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 ---
