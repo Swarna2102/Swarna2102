@@ -45,10 +45,14 @@
 
 ---
 
+
+![snake gif](https://github.com/Swarna2102/Swarna2102/blob/output/github-snake-dark.svg)
 ### 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Swarna2102&color=brightgreen)
 
 ---
 
-_✨ Keep pushing, stay curious, and build cool things!_
+
+
+
