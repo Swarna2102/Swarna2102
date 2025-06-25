@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarna Kumari</h1>
-<h3 align="center">Data Analyst | CSE Student | DSA Enthusiast</h3>
+<h3 align="center">Data Analyst | Software Developer| CSE Student </h3>
 
 ---
 
@@ -37,22 +37,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Languages
 
-![Swarnas GitHub stats](https://github-readme-stats.vercel.app/api?username=Swarna2102&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2102&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarna2102&show_icons=true&theme=radical" alt="Swarnas GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarna2102&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</p>
 
 ---
 
+### 🐍 GitHub Activity Snake
 
 ![snake gif](https://github.com/Swarna2102/Swarna2102/blob/output/github-snake-dark.svg)
-### 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Swarna2102&color=brightgreen)
 
 ---
 
+### 👀 Profile Visitors
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swarna2102&color=brightgreen" alt="Visitor Count"/>
+</p>
 
-
+---
